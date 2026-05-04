@@ -1,8 +1,8 @@
 site_name: Moje portfolio
 site_author: Denis Karankevich
 
-repo_name: RedGamer887/ds_portfolio
-repo_url: https://github.com/RedGamer887/ds_portfolio
+repo_name: denis-karankevich/ds_portfolio
+repo_url: https://github.com/denis-karankevich/ds_portfolio
 
 theme:
   name: material
@@ -23,14 +23,14 @@ theme:
     - palette
 
 nav:
-- Główna strona: index.md
-- Projekty z kursu:
-  - "NaszGPT": naszgpt/index.md
-  - "Audio notatki": audio_notes/index.md
-  - "Wyszukiwanie znajomych": find_friends/index.md
-- Projekty indywidualne:
-  - "Audio & Wideo": audio_video_summary/index.md
-  - "Poszukiwanie pracy": oferty_pracy/index.md
+  - Główna strona: index.md
+  - Projekty z kursu:
+      - "NaszGPT": naszgpt/index.md
+      - "Audio notatki": audio_notes/index.md
+      - "Wyszukiwanie znajomych": find_friends/index.md
+  - Projekty indywidualne:
+      - "Audio & Wideo": audio_video_summary/index.md
+      - "Poszukiwanie pracy": oferty_pracy/index.md
 
 markdown_extensions:
   - attr_list
